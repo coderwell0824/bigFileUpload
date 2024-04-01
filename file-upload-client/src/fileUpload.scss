@@ -1,0 +1,16 @@
+.upload-container {
+  width: 100%;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ccc;
+
+  &:hover {
+    border-color: bisque;
+  }
+
+  span {
+    font-size: 60px;
+  }
+}
