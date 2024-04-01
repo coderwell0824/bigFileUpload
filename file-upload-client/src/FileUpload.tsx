@@ -28,7 +28,7 @@ const FileUpload = () => {
           <InboxOutlined />
         </p>
         <p className="ant-upload-text">
-          Click or drag file to this area to upload
+          Click or drag file to this area to upload11111
         </p>
       </Dragger>
     </>
